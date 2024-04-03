@@ -1,0 +1,10 @@
+.header{
+    font: italic;
+    color: brown;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.background{
+    background-color: antiquewhite;
+}
